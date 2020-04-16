@@ -8,7 +8,11 @@ class App extends Component {
     return (
       <View style={styles.container}>
         <LoginPage/>
+        <Text>
+        Try editing me! 🎉
+      </Text>
       </View>
+      
     );
   }
 }
